@@ -10,7 +10,11 @@ os-cpu-scheduling/
 ├── input/
 ├── output/
 └── screenshots
-Group members
+
+
+                                   Group members
+
+                                   
              Name                                             ID number
 
           1.  LIDIA  DESALEGN...............BDU1601923
@@ -21,5 +25,5 @@ Group members
           6.   NEBYU  ESUBALEW..............BDU1602265
          7 .  OMEGA CHALACHEW...........BDU1602296
          8.  RAHEL AMARE.....................BDU1602304
-<img width="1136" height="943" alt="image" src="https://github.com/user-attachments/assets/0f122f08-e175-41f7-b7c3-bc6408344c38" />
+
 
